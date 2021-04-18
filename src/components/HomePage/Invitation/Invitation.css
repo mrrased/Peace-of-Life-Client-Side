@@ -2,3 +2,10 @@
     border-radius: 13px;
     height: 500px;
 }
+
+@media only screen and (max-width: 600px) {
+    .invite-pic {
+      width: 400px;
+      height: 350px;
+    }
+  }
