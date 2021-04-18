@@ -1,0 +1,28 @@
+.top-banner {
+    background-image: url('../../../images/f-bg.jpg');
+    background-position:center;
+    background-size: cover;
+    height: 550px;
+}
+
+.top-heading {
+    /* margin-top: 5vw; */
+    padding: 5vw 20vw;
+    font-size: 6vw;
+}
+
+body {
+    background-color: rgb(245, 230, 243);
+  }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(228, 239, 243);
+    }
+    .top-heading {
+        /* margin-top: 5vw; */
+        padding: 30vw 20vw;
+        font-size: 6vw;
+    }
+  }
+

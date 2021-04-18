@@ -1,0 +1,29 @@
+.detail {
+    width: 400px;
+}
+
+.img {
+    height:250px;
+     width:400px;
+     object-fit: cover; 
+     transition: .5s;
+}
+
+.service-card:hover > .img {
+    width: 430px;
+    height: 280px;
+  }
+
+  .btn {
+    border-radius: 7px;
+    color: white;
+    margin-left: 40px;
+    padding: 0px 25px;
+    background-color: rgb(43, 121, 95);
+  }
+   
+  @media only screen and (max-width: 600px) {
+    .service-card:hover > .img {
+        width: 410px;
+      }
+  }
