@@ -1,4 +1,4 @@
- Website Name: PEACE OF LIFE 
+ # PEACE OF LIFE 
 
  Live Site: https://interior-illusions-31e95.web.app/
 
@@ -15,8 +15,10 @@ Frontend Technologies:
   - HTML
   - CSS
   - Bootstrap
-  - Reactjs
+  - react-bootstrap
+  - React.js
   - React-Hooks
+  - Axios
   - Firebase-auth
   - Stripe
 
