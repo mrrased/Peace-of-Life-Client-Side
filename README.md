@@ -29,4 +29,4 @@ Backend Technologies:
   - Heroku
 
 
-Server side code: https://github.com/Sumaiya176/Peace-of-Life-Server-Side
+Server side code: https://github.com/Sumaiya176/Peace-of-Life-Server-Side# Peace-of-Life-Client-Side
